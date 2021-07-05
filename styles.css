@@ -1,0 +1,46 @@
+body{
+    background-color: #ECF0F1;
+    font-family: 'Nanum Myeongjo', serif;
+  }
+  #container{
+    background-color: #ccb7ae;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 8px 10px 10px #565264;
+  }
+  #header{
+    background-color: #a6808c;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #706677;
+  }
+  #tribute-info{
+    font-size: 18px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+  }
+  #main{
+    background-color: #d6cfcb;
+    padding: 15px;
+  }
+  h1{
+    font-size: 50px;
+  }
+  #image{
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 1px solid black;
+  }
+  #footer{
+    text-align: center;
+  }
+  #quote{
+    font-size: 20px;
+  }
+  
